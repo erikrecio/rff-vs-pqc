@@ -1,4 +1,4 @@
-# RFF_vs_PQC  
+# rff-vs-pqc 
 Code accompanying the paper  
 **“Potential and limitations of random Fourier features for dequantizing quantum machine learning”**  
 (Quantum 9, 1640, 2025; DOI: 10.22331/q-2025-02-20-1640)
