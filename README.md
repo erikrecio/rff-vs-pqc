@@ -86,7 +86,3 @@ If you use this code, please cite:
   doi     = {10.22331/q-2025-02-20-1640}
 }
 ```
-
-## License
-
-Specify license here (e.g., MIT, Apache-2.0).
